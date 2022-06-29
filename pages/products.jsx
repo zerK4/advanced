@@ -77,10 +77,9 @@ export default function Products() {
             <div className="w-[15rem] px-6">Nothing added yet.</div>
           ) : (
             addedToCart?.map((product, i) => (
-              <Link href="/Product/[Product]" as={`/Product/${product.id}`}>
+              <Link key={i} href="/Product/[Product]" as={`/Product/${product.id}`}>
                 <div
                   onClick={(e) => getOne(product)}
-                  key={i}
                   className="w-[15rem] border-2 border-neutral-800 px-2 mb-2 mx-4 hover:bg-neutral-800 ease-in-out duration-200 cursor-pointer"
                 >
                   {product.title}
