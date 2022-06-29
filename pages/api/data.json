@@ -1,0 +1,808 @@
+[
+  {
+    "id": 1,
+    "title": "Fancy Hat",
+    "brand": "Hatters",
+    "price": 25,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": true,
+      "elegant": false,
+      "men": true,
+      "cat": "hat",
+      "women": true
+    },
+    "image": "/images/black_hat.png",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "title": "White Bluse",
+    "brand": "NNM",
+    "price": 50,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": false,
+      "elegant": true,
+      "men": false,
+      "cat": "bluse",
+      "women": true
+    },
+    "image": "/images/bluse_50pc.png",
+    "rating": {
+      "rate": 4.5,
+      "count": 300
+    },
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "title": "Colored Coat",
+    "brand": "COATERS",
+    "price": 70,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": true,
+      "elegant": false,
+      "men": true,
+      "cat": "coat",
+      "women": true
+    },
+    "image": "/images/coath_colored.png",
+    "rating": {
+      "rate": 4,
+      "count": 200
+    },
+    "stock": 20
+  },
+  {
+    "id": 4,
+    "title": "Colored Heels",
+    "brand": "SHOSTER",
+    "price": 80,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": false,
+      "elegant": true,
+      "men": false,
+      "cat": "shoes",
+      "women": true
+    },
+    "image": "/images/colored_heels.png",
+    "rating": {
+      "rate": 5,
+      "count": 500
+    },
+    "stock": 5
+  },
+  {
+    "id": 5,
+    "title": "Women Cream Pants",
+    "brand": "elJeanos",
+    "price": 60,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": false,
+      "elegant": true,
+      "men": false,
+      "cat": "pants",
+      "women": true
+    },
+    "image": "/images/cream_pants_women.png",
+    "rating": {
+      "rate": 3.5,
+      "count": 100
+    },
+    "stock": 50
+  },
+  {
+    "id": 6,
+    "title": "The Hat",
+    "brand": "Hatters",
+    "price": 20,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": true,
+      "elegant": false,
+      "men": true,
+      "cat": "hat",
+      "women": true
+    },
+    "image": "/images/gray_hat.png",
+    "rating": {
+      "rate": 2.8,
+      "count": 200
+    },
+    "stock": 1
+  },
+  {
+    "id": 7,
+    "title": "'Strmez' Coat",
+    "brand": "COATERS",
+    "price": 120,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": false,
+      "elegant": true,
+      "men": true,
+      "cat": "coat",
+      "women": false
+    },
+    "image": "/images/men_coat_elegant.png",
+    "rating": {
+      "rate": 5,
+      "count": 700
+    },
+    "stock": 0
+  },
+  {
+    "id": 8,
+    "title": "Appster Coat",
+    "brand": "COATERS",
+    "price": 100,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": false,
+      "elegant": true,
+      "men": true,
+      "cat": "coat",
+      "women": false
+    },
+    "image": "/images/men_coat.png",
+    "rating": {
+      "rate": 4,
+      "count": 200
+    },
+    "stock": 5
+  },
+  {
+    "id": 9,
+    "title": "'Some' Jeans",
+    "brand": "elJeanos",
+    "price": 60,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": false,
+      "elegant": true,
+      "men": true,
+      "cat": "jeans",
+      "women": false
+    },
+    "image": "/images/men_jeans.png",
+    "rating": {
+      "rate": 4.1,
+      "count": 200
+    },
+    "stock": 50
+  },
+  {
+    "id": 10,
+    "title": "'Looper' Men Pants",
+    "brand": "elJeanos",
+    "price": 90,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": false,
+      "elegant": true,
+      "men": true,
+      "cat": "pants",
+      "women": false
+    },
+    "image": "/images/men_pants_cream.png",
+    "rating": {
+      "rate": 5,
+      "count": 900
+    },
+    "stock": 1
+  },
+  {
+    "id": 11,
+    "title": "Black Nike",
+    "brand": "Nike",
+    "price": 200,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": true,
+      "elegant": true,
+      "men": true,
+      "cat": "shoes",
+      "women": true
+    },
+    "image": "/images/nike_black.png",
+    "rating": {
+      "rate": 5,
+      "count": 1000
+    },
+    "stock": 200
+  },
+  {
+    "id": 12,
+    "title": "Green Nikes",
+    "brand": "Nike",
+    "price": 150,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": true,
+      "elegant": false,
+      "men": true,
+      "cat": "shoes",
+      "women": true
+    },
+    "image": "/images/nike_green.png",
+    "rating": {
+      "rate": 4,
+      "count": 100
+    },
+    "stock": 100
+  },
+  {
+    "id": 13,
+    "title": "Red Nike",
+    "brand": "Nike",
+    "price": 170,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": true,
+      "elegant": false,
+      "men": true,
+      "cat": "shoes",
+      "women": true
+    },
+    "image": "/images/nike_red.png",
+    "rating": {
+      "rate": 3.9,
+      "count": 50
+    },
+    "stock": 12
+  },
+  {
+    "id": 14,
+    "title": "'Longer' dress",
+    "brand": "elJeanos",
+    "price": 100,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": false,
+      "elegant": true,
+      "men": false,
+      "cat": "dress",
+      "women": true
+    },
+    "image": "/images/red_dress_long.png",
+    "rating": {
+      "rate": 4,
+      "count": 100
+    },
+    "stock": 100
+  },
+  {
+    "id": 15,
+    "title": "Red hat",
+    "brand": "Hatters",
+    "price": 80,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": false,
+      "elegant": true,
+      "men": false,
+      "cat": "hat",
+      "women": true
+    },
+    "image": "/images/red_hat_women.png",
+    "rating": {
+      "rate": 3,
+      "count": 100
+    },
+    "stock": 14
+  },
+  {
+    "id": 16,
+    "title": "Red sneakers",
+    "brand": "NNM",
+    "price": 90,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": true,
+      "elegant": true,
+      "men": true,
+      "cat": "shoes",
+      "women": true
+    },
+    "image": "/images/sneakers_red.png",
+    "rating": {
+      "rate": 4.5,
+      "count": 300
+    },
+    "stock": 0
+  },
+  {
+    "id": 17,
+    "title": "Colored Nike",
+    "brand": "Nike",
+    "price": 150,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": true,
+      "elegant": false,
+      "men": true,
+      "cat": "shoes",
+      "women": true
+    },
+    "image": "/images/sneakers_colored.png",
+    "rating": {
+      "rate": 5,
+      "count": 150
+    },
+    "stock": 200
+  },
+  {
+    "id": 18,
+    "title": "Show colored Nike",
+    "brand": "Nike",
+    "price": 220,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": true,
+      "elegant": false,
+      "men": true,
+      "cat": "shoes",
+      "women": true
+    },
+    "image": "/images/sneakers_white.png",
+    "rating": {
+      "rate": 5,
+      "count": 1000
+    },
+    "stock": 1
+  },
+  {
+    "id": 19,
+    "title": "T-Shirt",
+    "brand": "NNM",
+    "price": 20,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": false,
+      "elegant": false,
+      "men": true,
+      "cat": "tshirt",
+      "women": false
+    },
+    "image": "/images/tshirt_black_2.png",
+    "rating": {
+      "rate": 3,
+      "count": 250
+    },
+    "stock": 0
+  },
+  {
+    "id": 20,
+    "title": "T-Shirt 705",
+    "brand": "NNM",
+    "price": 30,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": true,
+      "elegant": true,
+      "men": true,
+      "cat": "tshirt",
+      "women": true
+    },
+    "image": "/images/tshirt_black.png",
+    "rating": {
+      "rate": 4.5,
+      "count": 300
+    },
+    "stock": 10
+  },
+  {
+    "id": 21,
+    "title": "t-shirt",
+    "brand": "HATEM",
+    "price": 40,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": false,
+      "elegant": true,
+      "men": true,
+      "cat": "tshirt",
+      "women": false
+    },
+    "image": "/images/tshirt_gray_900.png",
+    "rating": {
+      "rate": 4.9,
+      "count": 200
+    },
+    "stock": 0
+  },
+  {
+    "id": 22,
+    "title": "White T-Shirt",
+    "brand": "HATEM",
+    "price": 90,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": false,
+      "elegant": true,
+      "men": true,
+      "cat": "tshirt",
+      "women": false
+    },
+    "image": "/images/tshirt_white.png",
+    "rating": {
+      "rate": 4.9,
+      "count": 100
+    },
+    "stock": 200
+  },
+  {
+    "id": 23,
+    "title": "T-Shirt + Pants",
+    "brand": "COMBERS",
+    "price": 200,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": false,
+      "elegant": false,
+      "men": true,
+      "cat": "combo",
+      "women": false
+    },
+    "image": "/images/unisex_combo.png",
+    "rating": {
+      "rate": 5,
+      "count": 50
+    },
+    "stock": 9
+  },
+  {
+    "id": 24,
+    "title": "White hat",
+    "brand": "NNM",
+    "price": 90,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": true,
+      "elegant": true,
+      "men": true,
+      "cat": "hat",
+      "women": true
+    },
+    "image": "/images/white_hat.png",
+    "rating": {
+      "rate": 2.5,
+      "count": 40
+    },
+    "stock": 1
+  },
+  {
+    "id": 25,
+    "title": "Black Coat",
+    "brand": "COTE",
+    "price": 200,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": false,
+      "elegant": true,
+      "men": false,
+      "cat": "coat",
+      "women": true
+    },
+    "image": "/images/women_coat_elegant_2.png",
+    "rating": {
+      "rate": 4.9,
+      "count": 500
+    },
+    "stock": 1
+  },
+  {
+    "id": 26,
+    "title": "Women`s elegance",
+    "brand": "COMBERS",
+    "price": 300,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": false,
+      "elegant": true,
+      "men": false,
+      "cat": "combo",
+      "women": true
+    },
+    "image": "/images/women_coat_elegant.png",
+    "rating": {
+      "rate": 5,
+      "count": 3000
+    },
+    "stock": 10
+  },
+  {
+    "id": 27,
+    "title": "Women Coat",
+    "brand": "COATERS",
+    "price": 120,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": false,
+      "elegant": true,
+      "men": false,
+      "cat": "coat",
+      "women": true
+    },
+    "image": "/images/women_coat.png",
+    "rating": {
+      "rate": 4,
+      "count": 200
+    },
+    "stock": 20
+  },
+  {
+    "id": 28,
+    "title": "Combo Gray styled",
+    "brand": "COMBERS",
+    "price": 100,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": false,
+      "elegant": true,
+      "men": false,
+      "cat": "combo",
+      "women": true
+    },
+    "image": "/images/women_combo.png",
+    "rating": {
+      "rate": 4,
+      "count": 100
+    },
+    "stock": 100
+  },
+  {
+    "id": 29,
+    "title": "Women Jeans",
+    "brand": "NNM",
+    "price": 40,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": false,
+      "elegant": true,
+      "men": false,
+      "cat": "jeans",
+      "women": true
+    },
+    "image": "/images/women_jeans.png",
+    "rating": {
+      "rate": 4,
+      "count": 250
+    },
+    "stock": 30
+  },
+  {
+    "id": 30,
+    "title": "Orange pants",
+    "brand": "NNM",
+    "price": 72,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": false,
+      "elegant": true,
+      "men": false,
+      "cat": "pants",
+      "women": true
+    },
+    "image": "/images/women_pants_orange.png",
+    "rating": {
+      "rate": 4,
+      "count": 50
+    },
+    "stock": 1
+  },
+  {
+    "id": 31,
+    "title": "Yello combo",
+    "brand": "COMBERS",
+    "price": 150,
+    "description": [
+      {
+        "list": [
+          "Nam rutrum, purus sed sodales convallis, leo ex sodales odio, mattis tristique lorem lacus vel neque. Mauris maximus porttitor facilisis. Phasellus a erat id risus interdum venenatis. Donec sit amet enim ligula. Fusce scelerisque, sem ac faucibus dictum, enim est egestas sem, non semper ligula lectus quis turpis. Sed bibendum cursus lacus, non blandit neque porttitor sed. Fusce efficitur tellus finibus nisl malesuada, a condimentum turpis mattis. Mauris molestie diam sit amet odio interdum, eget egestas sapien vulputate. Fusce aliquam augue a diam finibus gravida. Duis luctus augue sit amet dolor ornare, vitae gravida nunc bibendum. Mauris ut finibus orci, non ullamcorper diam. Aliquam erat volutpat. Fusce ac magna in massa mollis maximus. Mauris sodales velit sed rutrum faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin a lectus eget sem placerat posuere."
+        ]
+      }
+    ],
+    "category": {
+      "unisex": false,
+      "elegant": false,
+      "men": false,
+      "cat": "combo",
+      "women": true
+    },
+    "image": "/images/yellow_combo_women.png",
+    "rating": {
+      "rate": 4.1,
+      "count": 100
+    },
+    "stock": 15
+  }
+]
