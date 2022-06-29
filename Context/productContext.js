@@ -33,7 +33,7 @@ export const ProductProvider = ({children}) => {
       const thirdItem = Math.floor(Math.random() * 31)
       const getProducts = async () => {
         try {
-          const response = await axios.get("http://localhost:3000/api/shop");
+          const response = await axios.get("https://advanced.vercel.app/api/shop");
           setShowFirst([response.data[30]]);
           setShowSecond([response.data[10]]);
           setShowThird([response.data[5]]);
