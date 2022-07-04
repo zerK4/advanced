@@ -25,8 +25,6 @@ export default function Product() {
     goTop,
     addToWish,
     wishList,
-    notificationHandler,
-    notification,
   } = useContext(ProductContext);
 
   const existWish = wishList.find((wish) => wish.id === id);
@@ -45,9 +43,6 @@ export default function Product() {
       transition={{ duration: 1 }}
       className="min-h-screen flex mt-4 justify-center"
     >
-      {notification === true ? (
-        <Notification toastTitle={id.title} toastMessage={"Added to cart!"} />
-      ) : null}
       <div className={modalOff ? "flex" : "hidden"}>
         <Modal
           wishNCart={wishNCart}
@@ -135,8 +130,7 @@ export default function Product() {
                   onClick={(e) => {
                     checkProduct(id),
                       addToCart(id),
-                      goTop(),
-                      notificationHandler();
+                      goTop();
                   }}
                   className={
                     id.stock === 0
