@@ -20,7 +20,6 @@ export default function Products() {
     addToWish,
     checkProduct,
     addedToCart,
-    notification,
     itemOnWish,
   } = useContext(ProductContext);
   const filter = useRef();
@@ -43,12 +42,6 @@ export default function Products() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="flex flex-col md:flex-row">
-        {notification === true ? (
-          <Notification
-            toastTitle={itemOnWish.title}
-            toastMessage={"The product is already on the wish list"}
-          />
-        ) : null}
         <div className="flex flex-col md:flex-row border-b-2 border-neutral-700 pb-10">
           <Filter
             categoryHandler={categoryHandler}
@@ -66,7 +59,6 @@ export default function Products() {
                     getOne={getOne}
                     addToWish={addToWish}
                     checkProduct={checkProduct}
-                    notification={notification}
                   />
                 ))}
           </div>
